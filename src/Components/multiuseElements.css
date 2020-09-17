@@ -1,0 +1,82 @@
+.popupWrapper {
+  position: relative;
+  display: block;
+}
+
+.popup {
+  position: absolute;
+  padding: 10px;
+  border-radius: 2px;
+  overflow: hidden;
+  box-sizing: border-box;
+  border: 1px solid #ddd;
+  z-index: 10;
+}
+
+.popupWrapper .pointer {
+  content: " ";
+  position: absolute;
+  top: 30%;
+  left: 96%;
+  margin-left: -5px;
+  border-width: 7px;
+  border-style: solid;
+  border-color: transparent black transparent transparent;
+}
+
+.popup.right {
+  left: 100%;
+  transform: translateY(-50%);
+  top: 50%;
+}
+.popup.rightTop {
+  left: 100%;
+  transform: translateY(0%);
+  top: 0%;
+}
+.popup.rightBottom {
+  left: 100%;
+  transform: translateY(-100%);
+  top: 100%;
+}
+
+.popup.right {
+  left: 100%;
+  transform: translateY(-50%);
+  top: 50%;
+}
+.popup.right {
+  left: 100%;
+  transform: translateY(-50%);
+  top: 50%;
+}
+.popup.right {
+  left: 100%;
+  transform: translateY(-50%);
+  top: 50%;
+}
+.popup.right {
+  left: 100%;
+  transform: translateY(-50%);
+  top: 50%;
+}
+.popup.right {
+  left: 100%;
+  transform: translateY(-50%);
+  top: 50%;
+}
+.popup.right {
+  left: 100%;
+  transform: translateY(-50%);
+  top: 50%;
+}
+.popup.right {
+  left: 100%;
+  transform: translateY(-50%);
+  top: 50%;
+}
+.popup.right {
+  left: 100%;
+  transform: translateY(-50%);
+  top: 50%;
+}

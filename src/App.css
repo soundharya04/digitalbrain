@@ -34,11 +34,12 @@
 .image-container {
   background: url("./resources/think.jpg");
   background-size: cover;
+  background-position: center;
   height: 80vh;
 }
 
 .register-panel {
-  width: 80%;
+  width: 60%;
   height: 80vh;
   margin-top: 10vh;
 
